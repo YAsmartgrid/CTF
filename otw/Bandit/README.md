@@ -3,7 +3,7 @@ Bandit12
 
 Code Used
 -----------------
-
+`
   mkdir /tmp/yu && cp data.txt /tmp/yu && cd /tmp/yu
   xxd -r data.txt > data.bin
   file data.bin
@@ -26,5 +26,5 @@ Code Used
   zcat data8.bin > data9.bin
   file data9.bin
   cat data9.bin
-
+`
 
